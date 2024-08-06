@@ -9,4 +9,5 @@
 * [Heltec ESP32](https://github.com/HelTecAutomation/Heltec_ESP32/tree/master)
 
 ### YouTube
-* [Dave's Garage: LED/Arduino tutorial playlist](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ7ynsp8s4tnqEFmY15CKhmH)
+* [Dave's Garage: LED/Arduino tutorial playlist](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ7ynsp8s4tnqEFmY15CKhmH)(Note: start playlist from the bottom)
+* [Scott Marley's FastLED Basics](https://www.youtube.com/playlist?list=PLgXkGn3BBAGi5dTOCuEwrLuFtfz0kGFTC)

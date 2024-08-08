@@ -6,6 +6,7 @@ This is a collection of Internet resources & code for fun things to do with ESP3
 * [Dave's Nightdriverstrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip)
 * [Spatial library for ESP](https://github.com/aaronaverill/esp-spatial-led)
 * [HUB75 Audio Visualiser for ESP32](https://github.com/uklooney/AuroraDrop/tree/main)
+* [SmartMatrix](https://github.com/pixelmatix/SmartMatrix)
 
 ### Hardware
 * [Heltec ESP32](https://github.com/HelTecAutomation/Heltec_ESP32/tree/master)
